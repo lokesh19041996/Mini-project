@@ -1,0 +1,33 @@
+a.nav-link {
+    color: white;
+   
+}
+h2.nav-link {
+    color: white;
+}
+a.nav-link-item {
+    color: brown;
+   
+    text-decoration: none;
+}
+h2 {
+    margin: 0px 0px 20px 321px;
+}
+img.img2 {
+    width: 19px;
+    height: 17px;
+    margin: 0px 0px 2px 0px;
+}
+ul.nav {
+    margin: 0px 0px 0px 100px;
+   
+}
+img.img2 {
+    margin: 0px 0px 0px 50px;
+}
+li.nav-item {
+    margin: 0px 0px 0px 50px;
+}
+nav.navbar.bg-info {
+    margin: 0px 0px 0px 296px;
+}

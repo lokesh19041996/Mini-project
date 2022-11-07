@@ -1,0 +1,79 @@
+@media screen and (min-width: 1000px){
+  .align{
+   padding-left: 200px;
+   padding-right: 200px;
+}
+  .row{
+       /* padding: 0,200px,0,200px; */
+   display: grid;
+   grid-template-columns: repeat(4,1fr);
+   grid-gap: 20px;
+}
+.allign.mt-5 {
+  width: 70%;
+  margin: 0px 0px 0px 316px;
+}
+.card-body.bg-info {
+  margin: 163px 0px 0px 0px;
+}
+.card-body.bg-info {
+  margin: 163px 0px 0px 0px;
+}
+.allign {
+  margin: -122px 0px 0px 0px;
+}
+}
+@media screen and (min-width: 500px) and (max-width:1000px) {
+  .align{
+   padding-left: 100px;
+   padding-right: 100px;
+}
+  .row{
+   display: grid;
+   grid-template-columns: repeat(2,1fr);
+   grid-gap: 20px;
+}
+.card.p-3.bg-secondary {
+  width: 325px;
+}
+
+.allign {
+  margin: -122px 0px 0px 0px;
+}
+
+}
+.cat {
+  margin-left: 27px;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+p {
+  width: 275px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.allign.mt-5 {
+  width: 70%;
+  margin: 0px 0px 0px 316px;
+}
+.card-body.bg-info {
+  margin: 163px 0px 0px 0px;
+  height: 89px;
+
+}
+.allign {
+  margin: -130px 0px 0px 0px;
+}
+/* .card.p-3.bg-secondery {
+  margin: 0px 0px -13px 0px;
+} */
+i.fa.fa-times {
+  margin: -29px 0px 0px 244px;
+}
+h3 {
+  margin: 0px 95px -23px 0px;
+}
